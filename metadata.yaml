@@ -1,10 +1,16 @@
 _repo: Best-Stories-from-the-Best-Book-An-Illustrated-Bible-Companion-for-the-Home_46970
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46970-h/images/cover.jpg
 creator:
   author:
     agent_name: White, James Edson
     gutenberg_agent_id: '44063'
     url: http://www.gutenberg.org/2009/agents/44063
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46970#Best-Stories-from-the-Best-Book-An-Illustrated-Bible-Companion-for-the-Home
 gutenberg_issued: '2014-09-26'
 gutenberg_type: Text
 identifiers:
